@@ -1,0 +1,59 @@
+
+{
+  "nav": {
+    "profile": "Profile",
+    "logout": "Logout",
+    "language": "Language"
+  },
+  "landing": {
+    "hero": {
+      "title": "Professional Auction Bidding Services",
+      "subtitle": "Let our experts bid on your behalf at automotive auctions. Simple, transparent, and secure.",
+      "getStarted": "Get Started",
+      "learnMore": "Learn More"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "Four simple steps to get your vehicle from auction to your garage",
+      "step1": {
+        "title": "Submit Your Bid",
+        "description": "Enter the lot number and your maximum bid amount. We'll calculate the service fee and deposit."
+      },
+      "step2": {
+        "title": "Pay Deposit",
+        "description": "Pay a $215 service fee plus 10% deposit. Both are fully refundable if you don't win."
+      },
+      "step3": {
+        "title": "We Bid For You",
+        "description": "Our team attends the auction and bids on your behalf up to your maximum amount."
+      },
+      "step4": {
+        "title": "Get Results",
+        "description": "Win or lose, we notify you immediately. If you lose, your deposit and fee are refunded."
+      }
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "secure": {
+        "title": "Secure Payments",
+        "description": "All payments processed through Stripe with bank-level security and encryption."
+      },
+      "refund": {
+        "title": "100% Refund Guarantee",
+        "description": "If you don't win, we refund your service fee and deposit in full. No questions asked."
+      },
+      "fast": {
+        "title": "Fast & Professional",
+        "description": "Expert bidders with years of auction experience. Real-time status updates on your bids."
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Join hundreds of satisfied customers who trust us with their auction bids",
+      "button": "Sign Up Now"
+    },
+    "footer": {
+      "copyright": "© 2024 West Automotive. All rights reserved."
+    }
+  }
+}

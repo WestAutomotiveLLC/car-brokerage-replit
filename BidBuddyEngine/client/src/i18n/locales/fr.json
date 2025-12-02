@@ -1,0 +1,59 @@
+
+{
+  "nav": {
+    "profile": "Profil",
+    "logout": "Se déconnecter",
+    "language": "Langue"
+  },
+  "landing": {
+    "hero": {
+      "title": "Services Professionnels d'Enchères",
+      "subtitle": "Laissez nos experts enchérir en votre nom aux enchères automobiles. Simple, transparent et sécurisé.",
+      "getStarted": "Commencer",
+      "learnMore": "En Savoir Plus"
+    },
+    "howItWorks": {
+      "title": "Comment Ça Marche",
+      "subtitle": "Quatre étapes simples pour obtenir votre véhicule de l'enchère à votre garage",
+      "step1": {
+        "title": "Soumettez Votre Offre",
+        "description": "Entrez le numéro de lot et votre montant d'offre maximum. Nous calculerons les frais de service et le dépôt."
+      },
+      "step2": {
+        "title": "Payer le Dépôt",
+        "description": "Payez des frais de service de 215 $ plus un dépôt de 10 %. Les deux sont entièrement remboursables si vous ne gagnez pas."
+      },
+      "step3": {
+        "title": "Nous Enchérissons Pour Vous",
+        "description": "Notre équipe assiste à l'enchère et enchérit en votre nom jusqu'à votre montant maximum."
+      },
+      "step4": {
+        "title": "Obtenez les Résultats",
+        "description": "Gagnant ou perdant, nous vous notifions immédiatement. Si vous perdez, votre dépôt et vos frais sont remboursés."
+      }
+    },
+    "features": {
+      "title": "Pourquoi Nous Choisir",
+      "secure": {
+        "title": "Paiements Sécurisés",
+        "description": "Tous les paiements traités via Stripe avec sécurité et cryptage de niveau bancaire."
+      },
+      "refund": {
+        "title": "Garantie de Remboursement 100%",
+        "description": "Si vous ne gagnez pas, nous remboursons intégralement vos frais de service et votre dépôt. Sans poser de questions."
+      },
+      "fast": {
+        "title": "Rapide et Professionnel",
+        "description": "Enchérisseurs experts avec des années d'expérience aux enchères. Mises à jour d'état en temps réel sur vos offres."
+      }
+    },
+    "cta": {
+      "title": "Prêt à Commencer?",
+      "subtitle": "Rejoignez des centaines de clients satisfaits qui nous font confiance pour leurs enchères",
+      "button": "S'inscrire Maintenant"
+    },
+    "footer": {
+      "copyright": "© 2024 West Automotive. Tous droits réservés."
+    }
+  }
+}

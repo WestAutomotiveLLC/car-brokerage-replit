@@ -1,0 +1,59 @@
+
+{
+  "nav": {
+    "profile": "Perfil",
+    "logout": "Cerrar sesión",
+    "language": "Idioma"
+  },
+  "landing": {
+    "hero": {
+      "title": "Servicios Profesionales de Subasta de Ofertas",
+      "subtitle": "Permita que nuestros expertos hagan ofertas en su nombre en subastas de automóviles. Simple, transparente y seguro.",
+      "getStarted": "Comenzar",
+      "learnMore": "Aprender Más"
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "subtitle": "Cuatro pasos simples para llevar su vehículo de la subasta a su garaje",
+      "step1": {
+        "title": "Envíe Su Oferta",
+        "description": "Ingrese el número de lote y su cantidad máxima de oferta. Calcularemos la tarifa de servicio y el depósito."
+      },
+      "step2": {
+        "title": "Pagar Depósito",
+        "description": "Pague una tarifa de servicio de $215 más un depósito del 10%. Ambos son totalmente reembolsables si no gana."
+      },
+      "step3": {
+        "title": "Ofertamos Por Usted",
+        "description": "Nuestro equipo asiste a la subasta y hace ofertas en su nombre hasta su cantidad máxima."
+      },
+      "step4": {
+        "title": "Obtenga Resultados",
+        "description": "Gane o pierda, le notificamos inmediatamente. Si pierde, su depósito y tarifa se reembolsan."
+      }
+    },
+    "features": {
+      "title": "Por Qué Elegirnos",
+      "secure": {
+        "title": "Pagos Seguros",
+        "description": "Todos los pagos procesados a través de Stripe con seguridad y cifrado de nivel bancario."
+      },
+      "refund": {
+        "title": "Garantía de Reembolso 100%",
+        "description": "Si no gana, reembolsamos su tarifa de servicio y depósito en su totalidad. Sin preguntas."
+      },
+      "fast": {
+        "title": "Rápido y Profesional",
+        "description": "Oferentes expertos con años de experiencia en subastas. Actualizaciones de estado en tiempo real sobre sus ofertas."
+      }
+    },
+    "cta": {
+      "title": "¿Listo Para Comenzar?",
+      "subtitle": "Únase a cientos de clientes satisfechos que confían en nosotros con sus ofertas de subasta",
+      "button": "Regístrese Ahora"
+    },
+    "footer": {
+      "copyright": "© 2024 West Automotive. Todos los derechos reservados."
+    }
+  }
+}
